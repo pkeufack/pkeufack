@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # 👋 Hi, I'm Patrick Keufack  
 🎓 Data Science student at Wentworth Institute of Technology | Aspiring Data Scientist | Athlete & Lifelong Learner  
